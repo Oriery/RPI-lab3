@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: url(sad_man.jpg) no-repeat;
+    background: url(./sad_man.jpg) no-repeat;
     background-size: cover;
     background-position: 30% 50%;
 }
